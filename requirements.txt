@@ -3,3 +3,4 @@ numpy==1.24.4
 scikit_learn==1.1.3
 scipy==1.13.1
 meshio==2.3.5
+pykan==0.0.5
